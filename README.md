@@ -12,7 +12,7 @@
 
 <h3 align="left"> I would love to connect with you on:</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arnavgholap?utm_source=qr&igsh=dXpvYXI3anl6a2Fu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-gholap) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arnavgholap/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-gholap) 
 
 
 <h3 align="left">Languages and Tools I have experience in:</h3>
