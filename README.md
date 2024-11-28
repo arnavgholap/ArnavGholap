@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnav Gholap!</h1>
 <h3 align="center">I am a Computer Engineering Student at KJ Somaiya College of Engineering, Mumbai.</h3>
-<h3 align= "center">I am a technology geek and an avid traveller! ✈️🌎
+<h3 align= "center">I am a technology geek and an avid traveller! ✈️🌎</h3>
 🌎
 - 🔭 I’m currently working as a **Business Analyst.**
 
