@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Gholap!</h1>
 <h3 align="center">I am a Computer Engineering Student at KJ Somaiya College of Engineering, Mumbai.</h3>
-
+<h3 align= "center">I am a technology geek and an avid traveller! ✈️🌎
+🌎
 - 🔭 I’m currently working as a **Business Analyst.**
 
 - 🌱 I’m currently learning **Machine Learning and Blockchain Technology.**
@@ -9,7 +10,7 @@
 
 - 📫 Reach me at: **arnav.gholap@somaiya.edu**
 
-<h3 align="left"> I would love to connect with on:</h3>
+<h3 align="left"> I would love to connect with you on:</h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arnavgholap?utm_source=qr&igsh=dXpvYXI3anl6a2Fu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-gholap) 
 
