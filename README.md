@@ -25,8 +25,3 @@
  
 </p>
 
-<div style="display:flex;flex-direction:row">
-
-[![GitHub Streak](https://git.io/streak-stats)
-
-</div>
