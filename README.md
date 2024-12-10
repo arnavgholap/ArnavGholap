@@ -25,4 +25,8 @@
  
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavgholap&theme=default&hide_border=true" alt="arnavgholap's GitHub Stats" />
+<div style="display:flex;flex-direction:row">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
