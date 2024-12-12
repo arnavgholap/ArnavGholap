@@ -30,3 +30,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
+
+## Acknowledgments 💖
+
+* To my family👪  and friends 👫 who always kept me motivated.
+* To the community of computer science 💻.
+
+Made with ❤ by Arnav Gholap
