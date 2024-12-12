@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
-- 💬 Ask me about **Python, SQL, Django, React Native**
+- 💬 Ask me about **Python, SQL, Django, React Native.**
 
 - 📫 Reach me at: **arnav.gholap@somaiya.edu**
 
