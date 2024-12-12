@@ -27,13 +27,16 @@
 
 <div style="display:flex;flex-direction:row">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight)](https://git.io/streak-stats)
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight" />
+</a>
 
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap&layout=compact&theme=tokyonight">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap&layout=compact&theme=tokyonight" />
 </a>
-<br>
+
 <a href="https://github-readme-stats.vercel.app/api?username=arnavgholap&show_icons=true&theme=tokyonight">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arnavgholap&show_icons=true&theme=tokyonight" />
 </a>
