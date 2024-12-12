@@ -33,6 +33,16 @@
 
 ![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavgholap&show_icons=true&theme=tokyonight)
 
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap&layout=compact&theme=tokyonight">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=arnavgholap&show_icons=true&theme=tokyonight">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arnavgholap&show_icons=true&theme=tokyonight" />
+</a>
+
 </div>
 
 ## Acknowledgments 💖
