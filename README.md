@@ -29,12 +29,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap&layout=compact&theme=tokyonight)
-
-![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavgholap&show_icons=true&theme=tokyonight)
-
-<a href="![arnavgholap's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnavgholap&theme=vue-dark&hide_border=true)">
-  <img height=200 align="center" src="![arnavgholap's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnavgholap&theme=vue-dark&hide_border=true)" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap&layout=compact&theme=tokyonight">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap&layout=compact&theme=tokyonight" />
