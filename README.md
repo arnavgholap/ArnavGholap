@@ -14,7 +14,7 @@
 - 💬 Ask me about **Python, SQL, Django, React Native.**
 
 - 📫 Reach me at: **arnav.gholap@somaiya.edu**
-
+<!-- Write your comments here 
 - 👨‍💻 All of my projects are available at:  
 
 - 📝 I regularly write articles on: 
@@ -22,7 +22,7 @@
 - 📄 Know more about my experiences here:
   
 - ⚡ Fun fact about me: I love watching thriller movies.
-
+-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavgholap" alt="arnavgholap" /></a> </p>
 
 <h3 align="left"> I would love to connect with you on:</h3>
