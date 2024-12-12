@@ -28,7 +28,7 @@
 <div style="display:flex;flex-direction:row">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap)](https://github.com/arnavgholap/github-readme-stats)
 </div>
 
 ## Acknowledgments 💖
