@@ -4,6 +4,7 @@
 <h2 align="left">
 🚀 Some insights about me:
 </h2>
+
 - 🔭 I’m currently working as a Business Analyst.
 
 - 🌱 I’m currently learning **Machine Learning and Blockchain Technology.**
