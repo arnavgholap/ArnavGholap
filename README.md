@@ -31,7 +31,7 @@
 <a href="https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight" />
 </a>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arnavgholap)](https://git.io/streak-stats)
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap&layout=compact&theme=tokyonight">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap&layout=compact&theme=tokyonight" />
