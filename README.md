@@ -29,7 +29,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap)](https://github.com/arnavgholap/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgholap&layout=compact)
+
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavgholap&show_icons=true&theme=radical)
 </div>
 
 ## Acknowledgments 💖
