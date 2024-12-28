@@ -39,8 +39,6 @@
 
 </a>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b1a43f81-9e60-4aca-9cb1-88d6e15ee0c4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <a href="https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=arnavgholap&theme=tokyonight" />
 </a>
