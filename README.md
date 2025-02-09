@@ -5,24 +5,22 @@
 🚀 Some insights about me:
 </h2>
 
-- 🔭 I’m currently working as a **Business Analyst.**
+- 🔭 I’m currently working as a **Business Analyst @Purplle.com**
 
 - 🌱 I’m learning **Natural Language Processing and Blockchain Technology.**
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
-- 💬 Ask me about **Python, SQL, Django, React Native.**
+- 💬 Ask me about **Python, SQL, Django, React Native, LookerStudio**
 
-- 📫 Reach me at: **arnav.gholap@somaiya.edu**
-<!-- Write your comments here 
-- 👨‍💻 All of my projects are available at:  
+- 📫 Reach me at: **arnavgholap09@gmail.com**
 
-- 📝 I regularly write articles on: 
+- 👨‍💻 All of my projects are available at:  https://github.com/arnavgholap and https://arnavgholap.github.io/Portfolio/
 
-- 📄 Know more about my experiences here:
-  
+- 📝 I regularly write articles on: LinkedIn ( Send me a connection request!)
+    
 - ⚡ Fun fact about me: I love watching thriller movies.
--->
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavgholap" alt="arnavgholap" /></a> </p>
 
 <h3 align="left"> I would love to connect with you on:</h3>
