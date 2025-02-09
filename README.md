@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at:  https://github.com/arnavgholap and https://arnavgholap.github.io/Portfolio/
 
-- 📝 I regularly write articles on: LinkedIn ( Send me a connection request!)
+- 📝 I regularly write articles on: LinkedIn <a href="https://www.linkedin.com/in/arnav-gholap"</a>(Send me a connection request!)
     
 - ⚡ Fun fact about me: I love watching thriller movies.
 
