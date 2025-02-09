@@ -5,7 +5,7 @@
 🚀 Some insights about me:
 </h2>
 
-- 🔭 I’m currently working as a **Business Analyst Intern at <a href="https://www.purplle.com">Purplle.com</a> (India's second largest online beauty products retailer)**
+- 🔭 I’m currently working as a **Business Analyst Intern at <a href="https://www.purplle.com">Purplle.com</a> (India's second largest beauty products retailer)**
 
 - 🌱 I’m learning **Natural Language Processing and Data Analytics.**
 
