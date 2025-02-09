@@ -5,9 +5,9 @@
 🚀 Some insights about me:
 </h2>
 
-- 🔭 I’m currently working as a **Business Analyst @Purplle.com**
+- 🔭 I’m currently working as a **Business Analyst Intern at Purplle.com (India's second largest online beauty products retailer)**
 
-- 🌱 I’m learning **Natural Language Processing and Blockchain Technology.**
+- 🌱 I’m learning **Natural Language Processing and Data Analytics.**
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
@@ -15,7 +15,7 @@
 
 - 📫 Reach me at: **arnavgholap09@gmail.com**
 
-- 👨‍💻 All of my projects are available at:  https://github.com/arnavgholap and https://arnavgholap.github.io/Portfolio/
+- 👨‍💻 All of my projects are available on: <a href="https://github.com/arnavgholap">GitHub</a> and <a href="https://arnavgholap.github.io/Portfolio/">Portfolio Website </a>.
 
 - 📝 I regularly write articles on: <a href="https://www.linkedin.com/in/arnav-gholap">LinkedIn</a> (Send me a connection request!)
     
