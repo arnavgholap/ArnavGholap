@@ -15,7 +15,7 @@
 
 - 📫 Reach me at: **arnavgholap09@gmail.com**
 
-- 👨‍💻 All of my projects are available on: <a href="https://github.com/arnavgholap">GitHub</a> and <a href="https://arnavgholap.github.io/Portfolio/">Portfolio Website </a>.
+- 👨‍💻 All of my projects are available on: <a href="https://github.com/arnavgholap">GitHub</a> and my <a href="https://arnavgholap.github.io/Portfolio/">Portfolio Website </a>.
 
 - 📝 I regularly write articles on: <a href="https://www.linkedin.com/in/arnav-gholap">LinkedIn</a> (Send me a connection request!)
     
