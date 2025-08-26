@@ -21,8 +21,6 @@
     
 - ⚡ Fun fact about me: I love watching thriller movies 🎥.
 
-##<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavgholap" alt="arnavgholap" /></a> </p>
-
 <h3 align="left"> I would love to connect with you on:</h3>
 
 <a href="https://wa.me/7718977240?text=Hi+Arnav" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -57,5 +55,6 @@
 * To the community of computer science 💻.
 
 Made with ❤ by Arnav Gholap
+
 
 
