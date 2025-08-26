@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arnav Gholap!</h1>
-<h3 align="center">I am a Computer Engineering Student at KJ Somaiya College of Engineering, Mumbai.</h3>
-<h3 align= "center">I am a technology geek and an avid traveller! ✈️🌎</h3>
+<h3 align="center">I am an aspiring Product Manager,
+Business Analyst
+and a Project Manager.</h3>
+<h3 align= "center">I am also a technology geek and an avid traveller! ✈️🌎</h3>
 <h2 align="left">
 🚀 Some information about me:
 </h2>
 
-- 🔭 I’m currently working as a **Business Analyst Intern at <a href="https://www.purplle.com">Purplle.com</a> (India's second largest beauty products retailer)**
+- 🌱 I’m pursuing a Masters in Engineering Management from [University of Massachusetts Amherst](https://www.umass.edu/).
 
-- 🌱 I’m learning **Natural Language Processing and Data Analytics.**
+- 🔭 I was a **Business Analyst Intern at <a href="https://www.purplle.com">Purplle.com</a> (India's second largest beauty retailer).**
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
@@ -55,6 +57,7 @@
 * To the community of computer science 💻.
 
 Made with ❤ by Arnav Gholap
+
 
 
 
