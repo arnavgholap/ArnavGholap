@@ -2,7 +2,7 @@
 <h3 align="center">I am a Computer Engineering Student at KJ Somaiya College of Engineering, Mumbai.</h3>
 <h3 align= "center">I am a technology geek and an avid traveller! ✈️🌎</h3>
 <h2 align="left">
-🚀 Some insights about me:
+🚀 Some information about me:
 </h2>
 
 - 🔭 I’m currently working as a **Business Analyst Intern at <a href="https://www.purplle.com">Purplle.com</a> (India's second largest beauty products retailer)**
@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
-- 💬 Ask me about **Python, SQL, Django, React Native, LookerStudio.**
+- 💬 Ask me about **SQL, Product Management, Project Management, Data Analytics.**
 
 - 📫 Reach me at: **arnavgholap09@gmail.com**
 
 - 👨‍💻 All of my projects are available on: <a href="https://github.com/arnavgholap">GitHub</a> and my <a href="https://arnavgholap.github.io/Portfolio/">Portfolio Website </a>.
 
-- 📝 I regularly write articles on: <a href="https://www.linkedin.com/in/arnav-gholap">LinkedIn</a> (Send me a connection request!)
+- 📝 I regularly post on: <a href="https://www.linkedin.com/in/arnav-gholap">LinkedIn</a> (Send me a connection request!)
     
-- ⚡ Fun fact about me: I love watching thriller movies.
+- ⚡ Fun fact about me: I love watching thriller movies 🎥.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavgholap" alt="arnavgholap" /></a> </p>
 
@@ -57,3 +57,4 @@
 * To the community of computer science 💻.
 
 Made with ❤ by Arnav Gholap
+
