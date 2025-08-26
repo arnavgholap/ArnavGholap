@@ -9,7 +9,7 @@ and a Project Manager.</h3>
 
 - 🌱 I’m pursuing a Masters in Engineering Management from [University of Massachusetts Amherst](https://www.umass.edu/).
 
-- 🔭 I was a **Business Analyst Intern at <a href="https://www.purplle.com">Purplle.com</a> (India's second largest beauty retailer).**
+- 🔭 Ex- **Business Analyst Intern at <a href="https://www.purplle.com">Purplle.com</a> (India's second largest beauty retailer).**
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
@@ -57,6 +57,7 @@ and a Project Manager.</h3>
 * To the community of computer science 💻.
 
 Made with ❤ by Arnav Gholap
+
 
 
 
